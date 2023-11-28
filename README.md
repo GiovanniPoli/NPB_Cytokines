@@ -77,7 +77,6 @@ BiocManager::install("limma")
 BiocManager::install("statmode")
 
 devtools::install_github("sarawade/mcclust.ext")
-
 ```
 
 
