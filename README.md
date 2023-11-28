@@ -1,4 +1,4 @@
-# Introduction
+# Guide to the code
 - Packages used and version of R are detailed in Section 1.
 - Section 2 contains a guide to fully reproduce the results of simulations and analysis on real data. This may require <b>several days of running</b> on a desktop PC. Alternatively, results (i.e., the MCMC chains and simulated data) can be downloaded following procedure described in the last Subsection of Section 2.
 - Steps described in Section 3 reproduce all graphs and tables included in the article.
