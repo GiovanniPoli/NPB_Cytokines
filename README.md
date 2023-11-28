@@ -122,7 +122,7 @@ E.g.:
 ```{r c1_3, eval=FALSE, message=FALSE, warning=FALSE, echo=TRUE}
 source("G:/CytoDPM/folder_to_push/2A_source_file_realdata.R", echo=TRUE)
 ```
-After that run the script.  `Real_data_semi_parametric_and_sensitivity.R`.
+After that run the script `Real_data_semi_parametric_and_sensitivity.R`.
 ```{r c1_4, eval=FALSE, message=FALSE, warning=FALSE, echo=TRUE}
 source("Real_data_semi_parametric_and_sensitivity.R")
 ```
