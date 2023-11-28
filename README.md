@@ -224,5 +224,5 @@ source("G:/CytoDPM/folder_to_push/3C_real_data_test.R", echo=TRUE)
 Here we we briefly describe other files in the folder:
 
 - File `functions_v3.0.R` in folder `Scripts` contains main functions used for simulations and analysis with a brief description.
-- Files `My_GG_Scripts.R` in folder `Scripts` contains functions for plots.
+- File `My_GG_Scripts.R` in folder `Scripts` contains functions for plots.
 - `Markdonw_Sensitivity.RMD` produce `Markdonw_Sensitivity.pdf`. The pdf has plots for convergences checks of all real data chains.
