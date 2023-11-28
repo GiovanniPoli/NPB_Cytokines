@@ -127,7 +127,7 @@ After that run the script `Real_data_semi_parametric_and_sensitivity.R`.
 source("Real_data_semi_parametric_and_sensitivity.R")
 ```
 ### Download results      
-Intermediate results can be downloaded at this [link](https://drive.google.com/drive/folders/1LQyEs6UILxygsH_7WtMAKp40xIdzgbsh?usp=sharing)
+Intermediate results can be downloaded at this [link](https://drive.google.com/drive/folders/1LQyEs6UILxygsH_7WtMAKp40xIdzgbsh?usp=sharing).
 
 It is possible to directly download the shared folder which contains the shared files and the results of those with a long computational time.
 
