@@ -2,8 +2,7 @@
 Welcome to the GitHub repository dedicated to the scientific draft titled "High-dimensional Bayesian semi-parametric models for small samples: a principled approach to the analysis of cytokine expression data" by Poli, Argiento and Stingo. 
 In this repository, you will find the files and data used in the article, as well as the source code used for statistical analysis and generating graphs.
 
-![plot](./Files/PDF/FIG2.PDF)
-
+![alt text](https://github.com/GiovanniPoli/NPB_Cytokines/progetto/Files/PDF/FIG2.PDF)
 
 # Guide to the code
 - Packages used and version of R are detailed in Section 1.
