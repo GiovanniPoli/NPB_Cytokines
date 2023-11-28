@@ -88,7 +88,7 @@ This section describes the steps to fully reproduce the results of the study, us
 This can be time-consuming.
 To reproduce the plots, the results can also be downloaded following the steps described in the last Subsection of this Section.
 
-The steps described in this Section require the installation of packages listed in [Section 1](#s1).
+The steps described in this Section require the installation of packages listed in Section 1.
 Computation time depends on the cores available for parallel computation. 
 By default the script will use the number of detected logical cores minus 2.
 
@@ -193,7 +193,7 @@ Object `results` will be a list of 4 `TRUE`.
 source("G:/CytoDPM/folder_to_push/3A_simulations_test_ALL.R", echo=TRUE)
 ```
 
-### Check results for target simulation {#s4-s2}
+### Check results for target simulation 
 
 Check that the target downloaded folder is in the same folder of script `3B_simulations_test_TARGET.R` and at least one file is in the corresponding folder. 
 Select element of vectors `scenarios`, `var_levels` and `models` (script lines 22-24).
