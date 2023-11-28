@@ -1,3 +1,8 @@
+# High-dimensional Bayesian semi-parametric models for small samples: a principled approach to the analysis of cytokine expression data
+Welcome to the GitHub repository dedicated to the scientific draft titled "High-dimensional Bayesian semi-parametric models for small samples: a principled approach to the analysis of cytokine expression data" by Poli, Argiento and Stingo. 
+In this repository, you will find the files and data used in the article, as well as the source code used for statistical analysis and generating graphs.
+
+
 # Guide to the code
 - Packages used and version of R are detailed in Section 1.
 - Section 2 contains a guide to fully reproduce the results of simulations and analysis on real data. This may require <b>several days of running</b> on a desktop PC. Alternatively, results (i.e., the MCMC chains and simulated data) can be downloaded following procedure described in the last Subsection of Section 2.
