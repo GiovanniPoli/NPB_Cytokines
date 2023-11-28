@@ -1,5 +1,5 @@
 # High-dimensional Bayesian semi-parametric models for small samples: a principled approach to the analysis of cytokine expression data
-Welcome to the GitHub repository dedicated to the scientific draft titled "High-dimensional Bayesian semi-parametric models for small samples: a principled approach to the analysis of cytokine expression data" by Poli, Argiento and Stingo. 
+Welcome to the GitHub repository dedicated to the scientific draft titled "High-dimensional Bayesian semi-parametric models for small samples: a principled approach to the analysis of cytokine expression data" by Poli, Argiento, Amedei and Stingo. 
 In this repository, you will find the files and data used in the article, as well as the source code used for statistical analysis and generating graphs.
 
 ![alt text](https://github.com/GiovanniPoli/NPB_Cytokines/blob/progetto/Files/FIG2_page-0001.jpg?raw=true)
